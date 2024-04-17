@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521868849896",
+    "project_id": "quick-guess-eda49",
+    "storage_bucket": "quick-guess-eda49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521868849896:android:22308c044419624b058f5d",
+        "android_client_info": {
+          "package_name": "com.example.quickguess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521868849896-qacaheb5a1la0d4q6o7d4jgvi03760dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc7lfC62lh2CCFIdSwDms_REQseN5VT8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521868849896-qacaheb5a1la0d4q6o7d4jgvi03760dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
